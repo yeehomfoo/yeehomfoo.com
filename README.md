@@ -1,2 +1,2 @@
 # www.yeehomfoo.com
-Personal website
+Personal [website](www.yeehomfoo.com) base on [hexo](https://hexo.io/).
