@@ -117,7 +117,7 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: https://blog.yeehomfoo.com || home
+  home: https:///www.yeehomfoo.com || home
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
@@ -125,7 +125,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
-  blog: https://blog.yeehomfoo.com/posts || heartbeat
+  blog: https:///blog.yeehomfoo.com/posts || heartbeat
 
 # Enable/Disable menu icons / item badges.
 menu_settings:
