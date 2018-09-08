@@ -1,4 +1,4 @@
-# [yeehomfoo.com]((https://yeehomfoo.com))
+# [yeehomfoo.com](https://yeehomfoo.com)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/yeehomfoo/www.yeehomfoo.com/master/LICENSE)
 
